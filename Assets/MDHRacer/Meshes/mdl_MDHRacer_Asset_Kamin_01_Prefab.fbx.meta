@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 9cdef9b0817297a458ee2b9f69c90e7c
+timeCreated: 1432124006
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube1
+    100004: pCube2
+    100006: pCube3
+    100008: pCube4
+    100010: pCube5
+    100012: pCube6
+    100014: pCube7
+    100016: pCube8
+    100018: pCube9
+    100020: SkyCarBody
+    100022: SkyCarBrakeLightsGlow
+    100024: SkyCarComponents
+    100026: SkyCarHeadLightsGlow
+    100028: SkyCarMudGuardFrontLeft
+    100030: SkyCarMudGuardFrontRight
+    100032: SkyCarSuspensionFrontLeft
+    100034: SkyCarSuspensionFrontRight
+    100036: SkyCarWheelFrontLeft
+    100038: SkyCarWheelFrontRight
+    100040: SkyCarWheelRearLeft
+    100042: SkyCarWheelRearRight
+    100044: transform1
+    100046: transform10
+    100048: transform11
+    100050: transform12
+    100052: transform13
+    100054: transform14
+    100056: transform15
+    100058: transform16
+    100060: transform17
+    100062: transform2
+    100064: transform3
+    100066: transform4
+    100068: transform5
+    100070: transform6
+    100072: transform7
+    100074: transform8
+    100076: transform9
+    400000: //RootNode
+    400002: pCube1
+    400004: pCube2
+    400006: pCube3
+    400008: pCube4
+    400010: pCube5
+    400012: pCube6
+    400014: pCube7
+    400016: pCube8
+    400018: pCube9
+    400020: SkyCarBody
+    400022: SkyCarBrakeLightsGlow
+    400024: SkyCarComponents
+    400026: SkyCarHeadLightsGlow
+    400028: SkyCarMudGuardFrontLeft
+    400030: SkyCarMudGuardFrontRight
+    400032: SkyCarSuspensionFrontLeft
+    400034: SkyCarSuspensionFrontRight
+    400036: SkyCarWheelFrontLeft
+    400038: SkyCarWheelFrontRight
+    400040: SkyCarWheelRearLeft
+    400042: SkyCarWheelRearRight
+    400044: transform1
+    400046: transform10
+    400048: transform11
+    400050: transform12
+    400052: transform13
+    400054: transform14
+    400056: transform15
+    400058: transform16
+    400060: transform17
+    400062: transform2
+    400064: transform3
+    400066: transform4
+    400068: transform5
+    400070: transform6
+    400072: transform7
+    400074: transform8
+    400076: transform9
+    2300000: pCube6
+    2300002: pCube7
+    2300004: pCube8
+    2300006: pCube9
+    3300000: pCube6
+    3300002: pCube7
+    3300004: pCube8
+    3300006: pCube9
+    4300000: pCube6
+    4300002: pCube7
+    4300004: pCube8
+    4300006: pCube9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
