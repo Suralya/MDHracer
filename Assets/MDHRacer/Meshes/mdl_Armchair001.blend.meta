@@ -1,32 +1,32 @@
 fileFormatVersion: 2
-guid: 79cd726b1fcd45e4ca9142b03b601f37
-timeCreated: 1432114730
+guid: cbea0a68c7dc3fa4cbdfe0334d2ea9df
+timeCreated: 1432122011
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: Armrests
-    100002: Chair
-    100004: ChairFoot
+    100000: ArmRest
+    100002: Backcushion
+    100004: Base
     100006: //RootNode
-    100008: Rolls
-    400000: Armrests
-    400002: Chair
-    400004: ChairFoot
+    100008: sitcushion
+    400000: ArmRest
+    400002: Backcushion
+    400004: Base
     400006: //RootNode
-    400008: Rolls
-    2300000: Armrests
-    2300002: Chair
-    2300004: ChairFoot
-    2300006: Rolls
-    3300000: Armrests
-    3300002: Chair
-    3300004: ChairFoot
-    3300006: Rolls
-    4300000: Armrests
-    4300002: Rolls
-    4300004: Chair
-    4300006: ChairFoot
+    400008: sitcushion
+    2300000: ArmRest
+    2300002: Backcushion
+    2300004: Base
+    2300006: sitcushion
+    3300000: ArmRest
+    3300002: Backcushion
+    3300004: Base
+    3300006: sitcushion
+    4300000: ArmRest
+    4300002: Base
+    4300004: Backcushion
+    4300006: sitcushion
     7400000: Default Take
     9500000: //RootNode
   materials:
