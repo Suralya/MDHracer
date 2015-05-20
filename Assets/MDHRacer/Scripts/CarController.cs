@@ -56,26 +56,12 @@ namespace UnityStandardAssets.Vehicles.Car
         public float Revs { get; private set; }
         public float AccelInput { get; private set; }
 
-		//Made By Töna
 
-		public int coins;
-
-		void OnTriggerEnter(Collider other)
-		{
-			if (other.gameObject.tag == "PickUp") 
-			{
-				Destroy(other.gameObject);
-				coins+=1;
-			}
-		}
 
 
         // Use this for initialization
         private void Start()
         {
-			//Töna
-			coins = 0;
-			//endTöna
             m_WheelMeshLocalRotations = new Quaternion[4];
             for (int i = 0; i < 4; i++)
             {
