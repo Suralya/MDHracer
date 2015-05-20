@@ -15,7 +15,7 @@ public class Goal : MonoBehaviour {
 
 	void OnTriggerEnter(Collider other)
 	{
-		if (other.gameObject.tag == "Goal") 
+		if (other.gameObject.tag == "Player") 
 		{
 			Application.LoadLevel(Application.loadedLevel);
 		}
