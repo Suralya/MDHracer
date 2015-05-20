@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 585f77b0139f64e439cb67f37d4dd358
+timeCreated: 1432126369
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCylinder1
+    100004: pPipe1
+    100006: pTorus1
+    100008: SkyCarBody
+    100010: SkyCarBrakeLightsGlow
+    100012: SkyCarComponents
+    100014: SkyCarHeadLightsGlow
+    100016: SkyCarMudGuardFrontLeft
+    100018: SkyCarMudGuardFrontRight
+    100020: SkyCarSuspensionFrontLeft
+    100022: SkyCarSuspensionFrontRight
+    100024: SkyCarWheelFrontLeft
+    100026: SkyCarWheelFrontRight
+    100028: SkyCarWheelRearLeft
+    100030: SkyCarWheelRearRight
+    100032: transform1
+    100034: transform10
+    100036: transform11
+    100038: transform12
+    100040: transform2
+    100042: transform3
+    100044: transform4
+    100046: transform5
+    100048: transform6
+    100050: transform7
+    100052: transform8
+    100054: transform9
+    400000: //RootNode
+    400002: pCylinder1
+    400004: pPipe1
+    400006: pTorus1
+    400008: SkyCarBody
+    400010: SkyCarBrakeLightsGlow
+    400012: SkyCarComponents
+    400014: SkyCarHeadLightsGlow
+    400016: SkyCarMudGuardFrontLeft
+    400018: SkyCarMudGuardFrontRight
+    400020: SkyCarSuspensionFrontLeft
+    400022: SkyCarSuspensionFrontRight
+    400024: SkyCarWheelFrontLeft
+    400026: SkyCarWheelFrontRight
+    400028: SkyCarWheelRearLeft
+    400030: SkyCarWheelRearRight
+    400032: transform1
+    400034: transform10
+    400036: transform11
+    400038: transform12
+    400040: transform2
+    400042: transform3
+    400044: transform4
+    400046: transform5
+    400048: transform6
+    400050: transform7
+    400052: transform8
+    400054: transform9
+    2300000: pCylinder1
+    2300002: pPipe1
+    2300004: pTorus1
+    3300000: pCylinder1
+    3300002: pPipe1
+    3300004: pTorus1
+    4300000: pPipe1
+    4300002: pTorus1
+    4300004: pCylinder1
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
