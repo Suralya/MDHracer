@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class Goal : MonoBehaviour {
@@ -17,7 +17,7 @@ public class Goal : MonoBehaviour {
 	{
 		if (other.gameObject.tag == "Player") 
 		{
-			Application.LoadLevel(Application.loadedLevel);
+			Application.LoadLevel(0);
 		}
 	}
 
